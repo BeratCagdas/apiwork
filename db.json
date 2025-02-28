@@ -1,0 +1,134 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "hikmet aslan",
+      "password": "3333",
+      "id": 2
+    },
+    {
+      "title": "fatma aslan",
+      "password": "3333",
+      "id": 6
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 11
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 15
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 16
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 17
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 18
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 19
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 20
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 21
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 22
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 23
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 24
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 25
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 26
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 27
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 28
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 29
+    },
+    {
+      "title": "beratc",
+      "password": "12345",
+      "id": 30
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
